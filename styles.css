@@ -1,0 +1,23 @@
+*{
+    background-color: darkred;
+}
+
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#recipe-list{
+
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: grey;
+}
