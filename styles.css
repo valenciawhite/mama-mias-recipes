@@ -3,7 +3,8 @@
 }
 
 h1{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 p{
@@ -11,13 +12,18 @@ p{
 }
 
 #recipe-list{
-
+    height: 200px;
+    width: 600px;
+    background-color: antiquewhite;
 }
 
 a{
     color: black;
+    background-color: antiquewhite;
+    font-size: 18px;
+    text-decoration: none;
 }
 
 a:hover{
-    color: grey;
+    color: darkred;
 }
